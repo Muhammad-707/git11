@@ -231,6 +231,9 @@
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
+  .w-6 {
+    width: calc(var(--spacing) * 6);
+  }
   .w-30 {
     width: calc(var(--spacing) * 30);
   }
@@ -248,6 +251,9 @@
   }
   .w-70 {
     width: calc(var(--spacing) * 70);
+  }
+  .w-80 {
+    width: calc(var(--spacing) * 80);
   }
   .w-\[80\%\] {
     width: 80%;
@@ -362,6 +368,9 @@
   }
   .pb-20 {
     padding-bottom: calc(var(--spacing) * 20);
+  }
+  .pl-3 {
+    padding-left: calc(var(--spacing) * 3);
   }
   .pl-5 {
     padding-left: calc(var(--spacing) * 5);
